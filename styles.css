@@ -951,7 +951,7 @@ button.btn { font: inherit; }
   .x-frame { min-height: 420px; height: 420px; }
 }
 
-/* ---------- kimchi/acc motion ---------- */
+/* ---------- k/acc motion ---------- */
 @property --angle {
   syntax: "<angle>";
   initial-value: 0deg;
